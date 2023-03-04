@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace TestResourcesApp.Assets.Languages;
+namespace TestResourcesApp.Resources.Languages;
 
 public class AppDesignRussianLanguage : ResourceDictionary
 {

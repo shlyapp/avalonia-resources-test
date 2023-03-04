@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace TestResourcesApp.Assets.Themes;
+namespace TestResourcesApp.Resources.Themes;
 
 public class AppDesignDarkTheme : ResourceDictionary
 {
